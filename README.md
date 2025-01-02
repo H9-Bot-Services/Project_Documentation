@@ -30,8 +30,3 @@ The core idea is to assign intelligent agents with specific roles and responsibi
 - Scales to handle large user volumes without compromising quality.
 - Promotes adaptive and continuous learning.
 
-## Flowchart for Users Registration
-![Users_Service Cases Date uploaded 2024-12-31 230920](https://github.com/user-attachments/assets/d31fb7f6-b492-4ad2-9330-af416740d954)
-
-## Flowchart for Registered Users and Role Assignment
-![Users Service Cruds Date uploaded 2024-12-31 231029](https://github.com/user-attachments/assets/b794491f-26fd-49a0-a33f-aa2023818650)
